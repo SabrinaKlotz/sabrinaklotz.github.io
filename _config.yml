@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My Website
+title: AcTUM
 
 # Your name to show in the footer
-author: Some Person
+author: Clemens Herrmann und Sabrina Klotz
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Homepage: "www.ac-tum-de"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
