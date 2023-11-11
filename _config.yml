@@ -21,10 +21,10 @@ author: Clemens Herrmann und Sabrina Klotz
 
 navbar-links:
   Homepage: "www.ac-tum.de"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Spenden:
+   # - Beautiful Jekyll: "https://beautifuljekyll.com"
+   # - Learn markdown: "https://www.markdowntutorial.com/"
+ # Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -52,11 +52,11 @@ round-avatar: true
 social-network-links:
   email: "actum-hsg@fs.tum.de"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+  facebook: Theatergruppe-ACTUM
 #  github: daattali
 #  twitter: daattali
 #  patreon: DeanAttali
-  youtube: actum7032
+  youtube: "@actum7032"
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -82,7 +82,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -131,7 +131,7 @@ navbar-var-length: false
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
+# page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
@@ -145,7 +145,7 @@ footer-hover-col: "#0085A1"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+page-img: "/assets/img/house_wo_lights-min.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
