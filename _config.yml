@@ -20,7 +20,7 @@ author: Clemens Herrmann und Sabrina Klotz
 ###############################################
 
 navbar-links:
-  Homepage: "https://www.ac-tum.de/"
+  AcTUM: "https://www.ac-tum.de/"
   Spenden: "https://paypal.me/weareactum"
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
