@@ -1109,10 +1109,8 @@ img {
 }
 
 .list-item {
-  text-transform: capitalize;
-  background-color: rgb(200, 30, 40);
   font-size: 1.3em;
-  text-align: left;
+  text-align: center;
   padding: 10px;
   margin: 1px;
   display: flex;
